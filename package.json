@@ -1,0 +1,17 @@
+{
+  "name": "draft-and-flow-errors",
+  "version": "1.0.0",
+  "description": "Demonstrates Flow errors when using Draft.js",
+  "main": "src/index.js",
+  "author": "Brandon Johnson <bcjohnson@instructure.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "draft-js": "0.10.4",
+    "react": "16.1.1",
+    "react-dom": "16.1.1"
+  },
+  "devDependencies": {
+    "flow-bin": "0.59.0"
+  }
+}
